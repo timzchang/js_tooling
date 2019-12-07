@@ -1,0 +1,1 @@
+Exploring and understanding Webpack, babel, hot loading, jest, etc.
